@@ -1,11 +1,11 @@
-# Faffweasel Industries
+# .github
+
+Organisation profile and community health files for Faffweasel Industries.
+
+## Faffweasel Industries
 
 Privacy-first tools and open-source software.
 
-**Coming soon:**
-- Client-side EXIF stripper
-- Minimal markdown micro-blog engine
-
-All open-source projects are AGPL-3.0 licensed.
+Each project's licence is in its LICENCE file. Open-source projects use AGPL-3.0.
 
 **Web:** https://faffweasel.com
