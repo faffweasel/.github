@@ -5,11 +5,14 @@ Privacy-first tools and open-source software.
 ---
 
 **Projects**
+
+- Tintype - Minimal markdown micro-blog engine - https://tintype.dev
+- Faffmonkey - A minimal, self-hosted personal AI agent. Python core, stdlib-only. - https://github.com/faffweasel/faffmonkey
 - Client-side EXIF stripper - https://exif.faffweasel.com/
 - Meetings Cost Calculator - https://meetings.faffweasel.com/
 
 **Coming soon:**
-- Minimal markdown micro-blog engine
+
 
 ---
 
